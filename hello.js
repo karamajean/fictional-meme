@@ -1,2 +1,9 @@
 
-console.log("Hello World");
+
+function hello(){
+
+    console.log("Hello World");
+
+}
+
+setInterval(hello, 1500);
